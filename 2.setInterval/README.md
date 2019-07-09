@@ -13,8 +13,8 @@
   
   <input type="text" id="result">
   
-  <input type="button" value="开始" >
-  <input type="button" value="结束" >
+  <input type="button" value="开始" onclick="start()">
+  <input type="button" value="结束"  onclick="stop()">
   
   <script>
       // write your code here
